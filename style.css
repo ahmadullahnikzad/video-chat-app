@@ -1,0 +1,12 @@
+.container{
+    max-width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+video{
+    background-color: rgb(31, 31, 31);
+    height:95vh;
+    width:49.5%;
+}
